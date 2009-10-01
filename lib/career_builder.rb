@@ -4,7 +4,7 @@ require 'cgi'
 module CareerBuilder
   
   def self.version
-    "0.0.3"
+    "0.0.4"
   end
   ##
   # The API Key should be set
