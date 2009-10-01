@@ -5,9 +5,9 @@ Gem::Specification.new do |s|
   s.email = "github@dusty.name" 
   s.homepage = "http://code.dusty.name" 
   s.platform = Gem::Platform::RUBY
-  s.description = "Interface to Career Builder's API" 
   s.summary = "Interface to Career Builder's API" 
-  s.files = %w[
+  s.description = "Interface to Career Builder's API" 
+  s.files = [
     "README.txt",
     "lib/career_builder.rb",
     "lib/career_builder/client.rb",
