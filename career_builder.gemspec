@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.platform = Gem::Platform::RUBY
   s.description = "Interface to Career Builder's API" 
   s.summary = "Interface to Career Builder's API" 
-  s.files = [
+  s.files = %w[
     "README.txt",
     "lib/career_builder.rb",
     "lib/career_builder/client.rb",
