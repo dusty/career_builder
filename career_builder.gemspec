@@ -17,7 +17,7 @@ Gem::Specification.new do |s|
   ]
   s.has_rdoc = true 
   s.extra_rdoc_files = ["README.txt"]
-  s.add_dependency('noko_parser')
+  s.add_dependency('dusty-noko_parser')
   s.add_dependency('patron')
   s.rubyforge_project = "none"
 end

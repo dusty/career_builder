@@ -23,7 +23,7 @@ require File.join(
   File.expand_path(File.dirname(__FILE__)), 'career_builder', 'parsers'
 )
 require File.join(
-  File.expand_path(File.dirname(__FILE__)), 'career_builder', 'models',
+  File.expand_path(File.dirname(__FILE__)), 'career_builder', 'models'
 )
 require File.join(
   File.expand_path(File.dirname(__FILE__)), 'career_builder', 'client'
